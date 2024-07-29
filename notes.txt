@@ -154,4 +154,26 @@ Item 10: Toy
 	•	“Great job to everyone who found it quickly! Let’s see who showed it first.”
 	7.	Acknowledge Participants:
 	•	“Congratulations to the first three people who showed the candle! You each earn 2 points.”
+
+
+1.	Introduce the Riddle:
+	•	“Great job on the first riddle, everyone! Let’s move on to our second riddle. Are you ready?”
+2.	Read the Riddle:
+	•	“Here’s the next riddle: ‘I have a face and two hands but no arms or legs.’”
+	•	“Take a moment to think about it.”
+3.	Provide Hints:
+	•	“Need a hint? Here are a couple of clues to help you out:”
+	•	“Hint 1: I often hang on walls or sit on desks.”
+	•	“Hint 2: I help you keep track of time.”
+4.	Encourage Participation:
+	•	“Think you know the answer? Go find the item and show it on camera!”
+	•	“Remember, you have 4 minutes to solve the riddle and find the item.”
+5.	Build Up Suspense:
+	•	“This item is something you look at several times a day to stay on schedule.”
+6.	Reveal the Answer:
+	•	“Time is up! The answer to the riddle is a clock.”
+	•	“Well done to everyone who found it! Let’s see who showed it first.”
+7.	Acknowledge Participants:
+	•	“Congratulations to the first three people who showed the clock! You each earn 2 points.”
+	•	“We’re doing great! Let’s move on to the next riddle.”
 	•	“Let’s keep the momentum going and move on to the next riddle.”
