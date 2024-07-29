@@ -3,3 +3,44 @@ Welcome, everyone! Thank you for joining our Virtual Scavenger Hunt today.
 	•	Event Overview:
 	•	Today’s event is designed to be a fun and interactive way to bring us together.
 	•	You will be searching for items and solving riddles from the comfort of your own home.
+
+
+
+
+For Round 1: Easy Items
+
+	•	“In Round 1, you’ll be given a list of 10 simple items to find within 20 minutes.”
+	•	“You have 2 minutes to find each item.”
+	•	“Each item found earns 1 point.”
+	•	“The first 3 people to find the item earn 2 points each.”
+	•	“Be quick and show the items clearly on camera to earn your points.”
+
+For Round 2: Riddle Items
+
+	•	“In Round 2, you must solve riddles to identify the items within 20 minutes.”
+	•	“There are 5 riddles in total, and you have 4 minutes to find each item.”
+	•	“Each item found earns 1 point.”
+	•	“The first 3 people to find the item earn 2 points each.”
+	•	“The first person to correctly solve the riddle and find the item earns an extra point.”
+	•	“Think fast, solve the riddles, and show the items on camera to score points.”
+
+Round 1: Easy Items
+
+	•	Time Limit: 20 minutes total, 2 minutes per item
+	•	Instructions:
+	•	Find 10 simple items.
+	•	Show each item clearly on camera.
+	•	Points:
+	•	Each item found earns 1 point.
+	•	First 3 people to find the item earn 2 points each.
+
+Round 2: Riddle Items
+
+	•	Time Limit: 20 minutes total, 4 minutes per item
+	•	Instructions:
+	•	Solve 5 riddles to identify items.
+	•	Show each item clearly on camera.
+	•	Points:
+	•	Each item found earns 1 point.
+	•	First 3 people to find the item earn 2 points each.
+	•	First person to correctly solve the riddle and find the item earns an extra point.
