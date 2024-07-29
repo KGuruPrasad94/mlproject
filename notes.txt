@@ -1,28 +1,20 @@
-Welcome, everyone! Thank you for joining our Virtual Scavenger Hunt today.
-	•	We’re excited to have you all here and hope you’re ready for some fun and excitement!
-	•	Event Overview:
-	•	Today’s event is designed to be a fun and interactive way to bring us together.
-	•	You will be searching for items and solving riddles from the comfort of your own home.
-
-
-
-
-For Round 1: Easy Items
-
-	•	“In Round 1, you’ll be given a list of 10 simple items to find within 20 minutes.”
-	•	“You have 2 minutes to find each item.”
-	•	“Each item found earns 1 point.”
-	•	“The first 3 people to find the item earn 2 points each.”
-	•	“Be quick and show the items clearly on camera to earn your points.”
-
-For Round 2: Riddle Items
-
-	•	“In Round 2, you must solve riddles to identify the items within 20 minutes.”
-	•	“There are 5 riddles in total, and you have 4 minutes to find each item.”
-	•	“Each item found earns 1 point.”
-	•	“The first 3 people to find the item earn 2 points each.”
-	•	“The first person to correctly solve the riddle and find the item earns an extra point.”
-	•	“Think fast, solve the riddles, and show the items on camera to score points.”
+1.	Welcome Participants:
+	•	“Welcome, everyone! Thank you so much for joining our Virtual Scavenger Hunt today.”
+	•	“We’re thrilled to have you all here and hope you’re ready for some fun and excitement!”
+2.	Set the Tone:
+	•	“Today, we’ll be embarking on an exciting adventure right from the comfort of your own home.”
+	•	“This scavenger hunt is designed to be a fun and interactive way to bring us together and challenge your quick thinking and problem-solving skills.”
+3.	Overview of the Event:
+	•	“You’ll be searching for items and solving riddles in two exciting rounds.”
+	•	“In Round 1, you’ll need to find common household items as quickly as possible.”
+	•	“In Round 2, you’ll solve riddles to figure out which items to find. This will test both your wits and speed!”
+4.	Encourage Participation:
+	•	“Get ready to move quickly, think on your feet, and have a blast!”
+	•	“Remember, the more items you find and riddles you solve, the more points you’ll earn.”
+5.	Highlight Prizes:
+	•	“We have some exciting prizes for the top performers, so make sure to give it your all.”
+6.	Transition to Instructions:
+	•	“Before we get started, I’ll go over the rules and how the points system works.”
 
 Round 1: Easy Items
 
