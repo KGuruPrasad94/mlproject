@@ -177,3 +177,25 @@ Item 10: Toy
 	•	“Congratulations to the first three people who showed the clock! You each earn 2 points.”
 	•	“We’re doing great! Let’s move on to the next riddle.”
 	•	“Let’s keep the momentum going and move on to the next riddle.”
+
+
+1.	Introduce the Riddle:
+	•	“Fantastic job with the last riddle! Let’s move on to riddle number three. Are you ready?”
+2.	Read the Riddle:
+	•	“Here’s the next one: ‘I have a thumb and four fingers but I’m not alive.’”
+	•	“Think about what this could be.”
+3.	Provide Hints:
+	•	“Need some help? Here are a couple of hints:”
+	•	“Hint 1: I’m often worn in the winter.”
+	•	“Hint 2: I keep your hands warm or protected.”
+4.	Encourage Participation:
+	•	“Do you know what it is? Go find the item and show it on camera!”
+	•	“Remember, you have 4 minutes to solve the riddle and find the item.”
+5.	Build Up Suspense:
+	•	“This item is essential for keeping warm in cold weather and can also be used for various activities.”
+6.	Reveal the Answer:
+	•	“Time’s up! The answer to the riddle is a glove.”
+	•	“Great job to everyone who found it! Let’s see who showed it first.”
+7.	Acknowledge Participants:
+	•	“Congratulations to the first three people who showed the glove! You each earn 2 points.”
+	•	“We’re halfway through the riddles. Let’s keep up the great work and move on to the next one.”
