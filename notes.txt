@@ -44,3 +44,91 @@ Round 2: Riddle Items
 	•	Each item found earns 1 point.
 	•	First 3 people to find the item earn 2 points each.
 	•	First person to correctly solve the riddle and find the item earns an extra point.
+
+
+General Instructions:
+
+	•	“Welcome to Round 1 of our scavenger hunt!”
+	•	“In this round, you will be given 10 simple items to find within 20 minutes.”
+	•	“You have 2 minutes to find each item.”
+	•	“Each item found earns 1 point, and the first 3 people to show the item earn 2 points each.”
+	•	“Please show the items clearly on camera as soon as you find them.”
+	•	“Let’s get started!”
+
+Item 1: Sunglass
+
+	•	“For our first item, we’re looking for something cool, something that screams summer…”
+	•	(Pause for effect)
+	•	“…a pair of sunglasses!”
+	•	“Go find a pair of sunglasses and show them on camera.”
+	•	“You have 2 minutes. Ready, set, go!”
+
+Item 2: Keychain
+
+	•	“Great job on the sunglasses! Now, let’s move on to something small but essential…”
+	•	(Pause for effect)
+	•	“…a keychain! This little item keeps our keys organized and easy to find.”
+	•	“Find a keychain and show it on camera.”
+	•	“You have 2 minutes. Go!”
+
+Item 3: Family/Friends Photo
+
+	•	“Next up, we want something that brings a smile to your face…”
+	•	(Pause for effect)
+	•	“…a photo of your family or friends. Grab a photo of your loved ones and show it on camera.”
+	•	“2 minutes to find it. Ready, go!”
+
+Item 4: Capital One “Swag”
+
+	•	“Time to show off your team spirit! We want to see something that represents our company…”
+	•	(Pause for effect)
+	•	“…find any Capital One swag. It could be a shirt, a pen, or anything with the Capital One logo.”
+	•	“Show your Capital One swag on camera.”
+	•	“You have 2 minutes. Go!”
+
+Item 5: Book
+
+	•	“Now, let’s find something that takes you on adventures without leaving your seat…”
+	•	(Pause for effect)
+	•	“…a book! Any book will do. Show it on camera once you have it.”
+	•	“2 minutes to find a book. Go!”
+
+Item 6: Something “Shiny”
+
+	•	“Let’s add a little sparkle to our hunt…”
+	•	(Pause for effect)
+	•	“…find something shiny. It can be anything that glimmers or shines.”
+	•	“Show it on camera.”
+	•	“You have 2 minutes. Go!”
+
+Item 7: Something “Green”
+
+	•	“Great job! Now, let’s go green…”
+	•	(Pause for effect)
+	•	“…find something green in color. It could be a plant, a piece of clothing, or anything else.”
+	•	“Show it on camera.”
+	•	“You have 2 minutes. Go!”
+
+Item 8: Coffee Mug
+
+	•	“Time for a coffee break item…”
+	•	(Pause for effect)
+	•	“…find a coffee mug. Any coffee mug will do.”
+	•	“Show it on camera.”
+	•	“2 minutes to find it. Go!”
+
+Item 9: Something “Expensive”
+
+	•	“Now, let’s look for something valuable…”
+	•	(Pause for effect)
+	•	“…find something expensive. It could be anything valuable to you.”
+	•	“Show it on camera.”
+	•	“You have 2 minutes. Go!”
+
+Item 10: Toy
+
+	•	“Finally, let’s end on a playful note…”
+	•	(Pause for effect)
+	•	“…find a toy. Any kind of toy will work.”
+	•	“Show it on camera.”
+	•	“You have 2 minutes. Go!”
