@@ -198,4 +198,47 @@ Item 10: Toy
 	•	“Great job to everyone who found it! Let’s see who showed it first.”
 7.	Acknowledge Participants:
 	•	“Congratulations to the first three people who showed the glove! You each earn 2 points.”
+
+
+1.	Introduce the Riddle:
+	•	“You’re doing amazing! Let’s move on to riddle number four. Get ready!”
+2.	Read the Riddle:
+	•	“Here’s your next riddle: ‘I have a neck but no head.’”
+	•	“Think carefully about what this could be.”
+3.	Provide Hints:
+	•	“Need a little help? Here are some hints:”
+	•	“Hint 1: You often find me in the fridge or on a table.”
+	•	“Hint 2: I hold liquids.”
+4.	Encourage Participation:
+	•	“Do you have an idea? Go find the item and show it on camera!”
+	•	“Remember, you have 4 minutes to solve the riddle and find the item.”
+5.	Build Up Suspense:
+	•	“This item is something we all use daily, especially to stay hydrated or to store beverages.”
+6.	Reveal the Answer:
+	•	“Time is up! The answer to the riddle is a bottle.”
+	•	“Fantastic job to everyone who found it! Let’s see who showed it first.”
+7.	Acknowledge Participants:
+	•	“Congratulations to the first three people who showed the bottle! You each earn 2 points.”
+	•	“We’re almost through all the riddles. Let’s keep the energy up and move to the next one.”
 	•	“We’re halfway through the riddles. Let’s keep up the great work and move on to the next one.”
+
+1.	Introduce the Riddle:
+	•	“You’re doing fantastic! Here comes the final riddle of the round. Let’s see if you can solve it!”
+2.	Read the Riddle:
+	•	“Here’s your last riddle: ‘I have keys but open no locks. I have space but no room. You can enter but not go outside.’”
+	•	“Take a moment to think about what this could be.”
+3.	Provide Hints:
+	•	“If you need some help, here are a couple of hints:”
+	•	“Hint 1: I have letters and numbers arranged in rows.”
+	•	“Hint 2: You use me to communicate with your computer.”
+4.	Encourage Participation:
+	•	“Think you know the answer? Go find the item and show it on camera!”
+	•	“Remember, you have 4 minutes to solve the riddle and find the item.”
+5.	Build Up Suspense:
+	•	“This item is essential for anyone who uses a computer regularly. It’s right at your fingertips.”
+6.	Reveal the Answer:
+	•	“Time’s up! The answer to the riddle is a keyboard.”
+	•	“Well done to everyone who found it! Let’s see who showed it first.”
+7.	Acknowledge Participants:
+	•	“Congratulations to the first three people who showed the keyboard! You each earn 2 points.”
+	•	“Great job everyone, we’ve completed all the riddles!”
