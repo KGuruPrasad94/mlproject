@@ -132,3 +132,26 @@ Item 10: Toy
 	•	“…find a toy. Any kind of toy will work.”
 	•	“Show it on camera.”
 	•	“You have 2 minutes. Go!”
+
+
+
+1.	Introduce the Riddle:
+	•	“Alright everyone, it’s time for our first riddle! Get ready to think and move quickly.”
+	2.	Read the Riddle:
+	•	“Here’s the riddle: ‘I’m tall when I’m young and I’m short when I’m old.’”
+	•	“Take a moment to think about it.”
+	3.	Provide Hints:
+	•	“If you’re having trouble, here are a couple of hints to help you out:”
+	•	“Hint 1: I provide light but don’t use electricity.”
+	•	“Hint 2: I melt as I burn.”
+	4.	Encourage Participation:
+	•	“Think you know the answer? Go find the item and show it on camera!”
+	•	“Remember, you have 4 minutes to solve the riddle and find the item.”
+	5.	Build Up Suspense:
+	•	“This item is something that can be found in many homes, especially during celebrations or romantic dinners.”
+	6.	Reveal the Answer:
+	•	“Time is up! The answer to the riddle is a candle.”
+	•	“Great job to everyone who found it quickly! Let’s see who showed it first.”
+	7.	Acknowledge Participants:
+	•	“Congratulations to the first three people who showed the candle! You each earn 2 points.”
+	•	“Let’s keep the momentum going and move on to the next riddle.”
